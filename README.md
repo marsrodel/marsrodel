@@ -66,7 +66,7 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marsrodel&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=marsrodel&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
 </div>
 
