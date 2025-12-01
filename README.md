@@ -30,7 +30,7 @@ me = Student()
 me.say_hi()
 ```
 
-- 🎓 Currently studying **Information Technology** at **University of Cabadbaran**
+- 🎓 Currently studying **Information Technology** at **Caraga State University Cabadbaran Campus**
 - 🌱 Learning web development and exploring mobile app development
 - � Working on small projects to improve my coding skills
 - 🎯 Goal: Build projects that solve real problems
