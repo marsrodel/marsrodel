@@ -1,10 +1,10 @@
 <div align="center">
   
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm Rodel James G. Maraon!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=College+Student+%F0%9F%8E%93;Learning+to+Code+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6C63FF)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=marsrodel&style=flat-square&color=6C63FF)](https://github.com/marsrodel)
 
 </div>
 
@@ -15,13 +15,13 @@
 ```python
 class Student:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Rodel James G. Maraon"
         self.role = "College Student"
-        self.location = "Your City/Country �"
-        self.education = "Computer Science / IT / [Your Major]"
+        self.location = "Cabadbaran City/Philippines"
+        self.education = "Information Technology"
         self.languages = ["HTML", "CSS", "JavaScript", "Python", "Java", "Dart"]
         self.currently_learning = ["Web Development", "Mobile Apps"]
-        self.hobbies = ["Coding", "Gaming", "Music"]
+        self.hobbies = ["Coding", "Gaming", "Music", "Reading", "Watching Videos"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something cool together!")
@@ -30,12 +30,12 @@ me = Student()
 me.say_hi()
 ```
 
-- 🎓 Currently studying **[Your Major]** at **[Your University]**
+- 🎓 Currently studying **Information Technology** at **University of Cabadbaran**
 - 🌱 Learning web development and exploring mobile app development
 - � Working on small projects to improve my coding skills
 - 🎯 Goal: Build projects that solve real problems
-- 🎮 When I'm not coding, I'm probably **[gaming/reading/your hobby]**
-- 📫 Reach me at: **your.email@example.com**
+- 🎮 When I'm not coding, I'm probably doing other leisure activities
+- 📫 Reach me at: marsrodel@gmail.com
 
 ---
 
@@ -62,10 +62,10 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marsrodel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marsrodel&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsrodel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
 
 </div>
 
