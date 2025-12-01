@@ -61,11 +61,13 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marsrodel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&cache_seconds=86400) | ![GitHub Streak](https://streak-stats.demolab.com/?user=marsrodel&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF) |
-| --- | --- |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marsrodel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8&cache_seconds=86400)
+<a href="https://github.com/marsrodel">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marsrodel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marsrodel&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
+</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marsrodel&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
