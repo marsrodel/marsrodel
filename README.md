@@ -64,10 +64,6 @@ me.say_hi()
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marsrodel&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=marsrodel&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-
 </div>
 
 ---
