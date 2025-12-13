@@ -1,10 +1,11 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Welcome%20to%20my%20GitHub%20Page&fontSize=32&fontAlignY=35&animation=twinkling" alt="Animated Header" />
-
 <img src="assets/github-header.png" alt="GitHub Header Banner" width="100%" />
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=2&section=header&animation=fadeIn" alt="Animated Divider" width="100%" />
+
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=College+Student+%F0%9F%8E%93;Learning+to+Code+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
