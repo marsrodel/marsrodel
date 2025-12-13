@@ -148,25 +148,23 @@ These screens show the mushroom species included in the model, helping users kno
 
 ---
 
-### 📈 Analytics & Detections per Class
+### 📈 Analytics, Detections per Class & 🕒 Scan History
 
-<p align="center">
-  <img src="assets/Analytics.jpg" alt="Analytics Page" width="200"/>
-  <img src="assets/Detections per Class.jpg" alt="Detections per Class" width="200"/>
-</p>
-
-The **Analytics** screen summarizes how the app is being used, including how many detections each fungi class has.  
-The **Detections per Class** chart visualizes how often each type of mushroom has been scanned.
-
----
-
-### 🕒 Scan History
-
-<p align="center">
-  <img src="assets/History.jpg" alt="History Page" width="200"/>
-</p>
-
-The **History** page keeps a record of past scans, including the detected class, accuracy, and time. This lets users review previous results and track their usage of Fungi Scan.
+<table>
+  <tr>
+    <td align="center">
+      <strong>Analytics & Detections per Class</strong><br/>
+      <img src="assets/Analytics.jpg" alt="Analytics Page" width="200"/>
+      <img src="assets/Detections per Class.jpg" alt="Detections per Class" width="200"/><br/>
+      <sub>The Analytics screen summarizes how the app is being used, including how many detections each fungi class has. The Detections per Class chart visualizes how often each type of mushroom has been scanned.</sub>
+    </td>
+    <td align="center">
+      <strong>Scan History</strong><br/>
+      <img src="assets/History.jpg" alt="History Page" width="200"/><br/>
+      <sub>The History page keeps a record of past scans, including the detected class, accuracy, and time. This lets users review previous results and track their usage of Fungi Scan.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
