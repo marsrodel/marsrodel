@@ -88,7 +88,7 @@ Fungi Scan focuses on a set of mushroom species and helps users identify them wi
 ### 🏠 Main Page
 
 <p align="center">
-  <img src="assets/Main Page.jpg" alt="Main Page" width="350"/>
+  <img src="assets/Main Page.jpg" alt="Main Page" width="250"/>
 </p>
 
 The **Main Page** is the starting point of the app. From here, users can navigate to the dictionary, open the camera or upload screen, and access other features of Fungi Scan.
@@ -98,7 +98,7 @@ The **Main Page** is the starting point of the app. From here, users can navigat
 ### 📖 Fungi Dictionary
 
 <p align="center">
-  <img src="assets/Dictionary.jpg" alt="Dictionary Page" width="350"/>
+  <img src="assets/Dictionary.jpg" alt="Dictionary Page" width="250"/>
 </p>
 
 The **Dictionary** lists the different fungi that can be recognized by the app. Each entry represents a species that users can scan and learn about.
