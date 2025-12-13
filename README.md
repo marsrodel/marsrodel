@@ -79,9 +79,9 @@ me.say_hi()
 
 ## 🚀 Current Project: Fungi Scan (Flutter App)
 
-This is my Flutter project called **Fungi Scan**, a mobile application for **fungi image classification**.  
-The app can analyze mushrooms either by **taking a photo with the camera** or by **uploading an existing image**.  
-Fungi Scan focuses on a set of mushroom species and helps users identify them with clear results, percentages, and helpful reference information.
+<p align="justify">
+This is my Flutter project called <strong>Fungi Scan</strong>, a mobile application for <strong>fungi image classification</strong>. The app can analyze mushrooms either by <strong>taking a photo with the camera</strong> or by <strong>uploading an existing image</strong>. Fungi Scan focuses on a set of mushroom species and helps users identify them with clear results, percentages, and helpful reference information.
+</p>
 
 ---
 
