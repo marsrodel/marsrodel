@@ -88,7 +88,7 @@ Fungi Scan focuses on a set of mushroom species and helps users identify them wi
 ### 🏠 Main Page
 
 <p align="center">
-  <img src="assets/Main Page.jpg" alt="Main Page" width="250"/>
+  <img src="assets/Main Page.jpg" alt="Main Page" width="200"/>
 </p>
 
 The **Main Page** is the starting point of the app. From here, users can navigate to the dictionary, open the camera or upload screen, and access other features of Fungi Scan.
@@ -98,7 +98,7 @@ The **Main Page** is the starting point of the app. From here, users can navigat
 ### 📖 Fungi Dictionary
 
 <p align="center">
-  <img src="assets/Dictionary.jpg" alt="Dictionary Page" width="250"/>
+  <img src="assets/Dictionary.jpg" alt="Dictionary Page" width="200"/>
 </p>
 
 The **Dictionary** lists the different fungi that can be recognized by the app. Each entry represents a species that users can scan and learn about.
@@ -132,8 +132,8 @@ These screens show the mushroom species included in the model, helping users kno
 ### 📷 Capture or Upload Images
 
 <p align="center">
-  <img src="assets/Camera.jpg" alt="Camera Page" width="300"/>
-  <img src="assets/Upload.jpg" alt="Upload Page" width="300"/>
+  <img src="assets/Camera.jpg" alt="Camera Page" width="200"/>
+  <img src="assets/Upload.jpg" alt="Upload Page" width="200"/>
 </p>
 
 Users can either **take a new photo** using the camera or **upload an existing image** from their device. These images are then sent to the model for fungi classification.
@@ -143,7 +143,7 @@ Users can either **take a new photo** using the camera or **upload an existing i
 ### ✅ Scan Result
 
 <p align="center">
-  <img src="assets/Result.jpg" alt="Result Page" width="350"/>
+  <img src="assets/Result.jpg" alt="Result Page" width="200"/>
 </p>
 
 After a scan, the **Result** screen shows the predicted fungi class along with **confidence percentages**, so users can see how likely each class is.
@@ -153,8 +153,8 @@ After a scan, the **Result** screen shows the predicted fungi class along with *
 ### 📈 Analytics & Detections per Class
 
 <p align="center">
-  <img src="assets/Analytics.jpg" alt="Analytics Page" width="350"/>
-  <img src="assets/Detections per Class.jpg" alt="Detections per Class" width="350"/>
+  <img src="assets/Analytics.jpg" alt="Analytics Page" width="200"/>
+  <img src="assets/Detections per Class.jpg" alt="Detections per Class" width="200"/>
 </p>
 
 The **Analytics** screen summarizes how the app is being used, including how many detections each fungi class has.  
@@ -165,7 +165,7 @@ The **Detections per Class** chart visualizes how often each type of mushroom ha
 ### 🕒 Scan History
 
 <p align="center">
-  <img src="assets/History.jpg" alt="History Page" width="350"/>
+  <img src="assets/History.jpg" alt="History Page" width="200"/>
 </p>
 
 The **History** page keeps a record of past scans, including the detected class, accuracy, and time. This lets users review previous results and track their usage of Fungi Scan.
