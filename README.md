@@ -1,5 +1,9 @@
 <div align="center">
   
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:F5A623&height=80&section=header&text=Hey,%20I'm%20Rodel%20James%20G.%20Maraon!&fontColor=ffffff&fontSize=26&animation=fadeIn" alt="Animated Header" width="100%" />
+
+<br/>
+
 <img src="assets/github-header.png" alt="GitHub Header Banner" width="100%" />
 
 <br/>
