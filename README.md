@@ -110,19 +110,19 @@ The **Dictionary** lists the different fungi that can be recognized by the app. 
 Below are sample screens showing the fungi that Fungi Scan can classify:
 
 <p align="center">
-  <img src="assets/Fly Agaric.jpg" alt="Fly Agaric" width="150"/>
-  <img src="assets/Morel.jpg" alt="Morel" width="150"/>
-  <img src="assets/Oyster.jpg" alt="Oyster" width="150"/>
-  <img src="assets/Chanterelle.jpg" alt="Chanterelle" width="150"/>
-  <img src="assets/Button.jpg" alt="Button" width="150"/>
+  <img src="assets/Fly Agaric.jpg" alt="Fly Agaric" width="165"/>
+  <img src="assets/Morel.jpg" alt="Morel" width="165"/>
+  <img src="assets/Oyster.jpg" alt="Oyster" width="165"/>
+  <img src="assets/Chanterelle.jpg" alt="Chanterelle" width="165"/>
+  <img src="assets/Button.jpg" alt="Button" width="165"/>
 </p>
 
 <p align="center">
-  <img src="assets/Reishi.jpg" alt="Reishi" width="150"/>
-  <img src="assets/Enoki.jpg" alt="Enoki" width="150"/>
-  <img src="assets/Black Trumpet.jpg" alt="Black Trumpet" width="150"/>
-  <img src="assets/Coral.jpg" alt="Coral" width="150"/>
-  <img src="assets/Bleeding Tooth.jpg" alt="Bleeding Tooth" width="150"/>
+  <img src="assets/Reishi.jpg" alt="Reishi" width="165"/>
+  <img src="assets/Enoki.jpg" alt="Enoki" width="165"/>
+  <img src="assets/Black Trumpet.jpg" alt="Black Trumpet" width="165"/>
+  <img src="assets/Coral.jpg" alt="Coral" width="165"/>
+  <img src="assets/Bleeding Tooth.jpg" alt="Bleeding Tooth" width="165"/>
 </p>
 
 These screens show the mushroom species included in the model, helping users know which fungi they can scan with the app.
