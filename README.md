@@ -1,25 +1,23 @@
 <div align="center">
-  <table width="100%" style="border: 1px solid #6C63FF; border-radius: 8px; padding: 16px;">
-    <tr>
-      <td align="center">
+  <div style="border: 1px solid #6C63FF; border-radius: 8px; padding: 16px; width: 100%; box-sizing: border-box;">
 
-        <img src="assets/github-header.png" alt="GitHub Header Banner" width="100%" />
+    <img src="assets/github-header.png" alt="GitHub Header Banner" width="100%" />
 
-        <br/>
+    <br/>
 
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=2&section=header&animation=fadeIn" alt="Animated Divider" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=2&section=header&animation=fadeIn" alt="Animated Divider" width="100%" />
 
-        <br/>
+    <br/>
 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=College+Student+%F0%9F%8E%93;Learning+to+Code+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=College+Student+%F0%9F%8E%93;Learning+to+Code+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Aspiring+Flutter+Developer;IT+Student+from+the+Philippines;Passionate+about+Learning+and+Building+Apps" alt="Typing SVG Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Aspiring+Flutter+Developer;IT+Student+from+the+Philippines;Passionate+about+Learning+and+Building+Apps" alt="Typing SVG Subtitle" />
 
-        [![Profile Views](https://komarev.com/ghpvc/?username=marsrodel&style=flat-square&color=6C63FF)](https://github.com/marsrodel)
+    <a href="https://github.com/marsrodel">
+      <img src="https://komarev.com/ghpvc/?username=marsrodel&style=flat-square&color=6C63FF" alt="Profile Views" />
+    </a>
 
-      </td>
-    </tr>
-  </table>
+  </div>
 </div>
 
 ---
