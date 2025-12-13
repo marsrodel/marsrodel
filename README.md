@@ -1,5 +1,7 @@
 <div align="center">
   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Welcome%20to%20my%20GitHub%20Page&fontSize=32&fontAlignY=35&animation=twinkling" alt="Animated Header" />
+
 <img src="assets/github-header.png" alt="GitHub Header Banner" width="100%" />
 
 <br/>
