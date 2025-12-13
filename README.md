@@ -77,73 +77,37 @@ me.say_hi()
 
 ---
 
-## 🚀 Current Project: Smart Mushroom Identifier App
+## 🚀 Current Project: Fungi Scan (Flutter App)
 
-A mobile app that helps users quickly identify different mushroom species using image recognition.  
-Snap a photo or upload an image, and the app analyzes it, shows the predicted species, and keeps a history of your scans with helpful references.
-
----
-
-### 🧭 App Flow Overview
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Main Page</strong><br/>
-      <img src="assets/Main Page.jpg" alt="Main Page" width="350"/><br/>
-      The central hub of the app. From here, users can start a new scan, view history, or explore other features.
-    </td>
-    <td align="center">
-      <strong>Upload / Camera</strong><br/>
-      <img src="assets/Upload.jpg" alt="Upload Page" width="350"/><br/>
-      <img src="assets/Camera.jpg" alt="Camera Page" width="350"/><br/>
-      Users can either upload an existing photo or capture a new one for mushroom detection.
-    </td>
-  </tr>
-</table>
+This is my Flutter project called **Fungi Scan**, a mobile application for **fungi image classification**.  
+The app can analyze mushrooms either by **taking a photo with the camera** or by **uploading an existing image**.  
+Fungi Scan focuses on a set of mushroom species and helps users identify them with clear results, percentages, and helpful reference information.
 
 ---
 
-### 🔍 Detection & Results
+### 🏠 Main Page
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>Detection Result</strong><br/>
-      <img src="assets/Result.jpg" alt="Result Page" width="350"/><br/>
-      Shows the predicted mushroom species, confidence score, and key details so users can understand the result.
-    </td>
-    <td align="center">
-      <strong>Analytics</strong><br/>
-      <img src="assets/Analytics.jpg" alt="Analytics Page" width="350"/><br/>
-      <img src="assets/Detections per Class.jpg" alt="Detections per Class" width="350"/><br/>
-      Visualizes how often each mushroom type has been detected and overall usage statistics.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/Main Page.jpg" alt="Main Page" width="350"/>
+</p>
+
+The **Main Page** is the starting point of the app. From here, users can navigate to the dictionary, open the camera or upload screen, and access other features of Fungi Scan.
 
 ---
 
-### 📚 Learning & History
+### 📖 Fungi Dictionary
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>History</strong><br/>
-      <img src="assets/History.jpg" alt="History Page" width="350"/><br/>
-      Keeps a record of past detections so users can revisit previous scans and compare results.
-    </td>
-    <td align="center">
-      <strong>Mushroom Dictionary</strong><br/>
-      <img src="assets/Dictionary.jpg" alt="Dictionary Page" width="350"/><br/>
-      A reference section with information about various mushrooms to help users learn more beyond the predictions.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/Dictionary.jpg" alt="Dictionary Page" width="350"/>
+</p>
+
+The **Dictionary** lists the different fungi that can be recognized by the app. Each entry represents a species that users can scan and learn about.
 
 ---
 
-### 🍄 Sample Mushroom Screens
+### 🍄 Supported Fungi Classes
+
+Below are sample screens showing the fungi that Fungi Scan can classify:
 
 <p align="center">
   <img src="assets/Fly Agaric.jpg" alt="Fly Agaric" width="250"/>
@@ -163,17 +127,50 @@ Snap a photo or upload an image, and the app analyzes it, shows the predicted sp
   <img src="assets/Bleeding Tooth.jpg" alt="Bleeding Tooth" width="250"/>
 </p>
 
-Each screen highlights a different mushroom species with a clear image and layout that makes it easy to recognize and compare.
+These screens show some of the mushroom species included in the model, helping users know which fungi they can scan with the app.
 
 ---
 
-### 🧩 UI Details
+### 📷 Capture or Upload Images
 
 <p align="center">
-  <img src="assets/Button.jpg" alt="Button Styles" width="300"/>
+  <img src="assets/Camera.jpg" alt="Camera Page" width="300"/>
+  <img src="assets/Upload.jpg" alt="Upload Page" width="300"/>
 </p>
 
-Custom buttons and UI components are designed to keep the interface clean and easy to use, especially for users outdoors in the field.
+Users can either **take a new photo** using the camera or **upload an existing image** from their device. These images are then sent to the model for fungi classification.
+
+---
+
+### ✅ Scan Result
+
+<p align="center">
+  <img src="assets/Result.jpg" alt="Result Page" width="350"/>
+</p>
+
+After a scan, the **Result** screen shows the predicted fungi class along with **confidence percentages**, so users can see how likely each class is.
+
+---
+
+### 📈 Analytics & Detections per Class
+
+<p align="center">
+  <img src="assets/Analytics.jpg" alt="Analytics Page" width="350"/>
+  <img src="assets/Detections per Class.jpg" alt="Detections per Class" width="350"/>
+</p>
+
+The **Analytics** screen summarizes how the app is being used, including how many detections each fungi class has.  
+The **Detections per Class** chart visualizes how often each type of mushroom has been scanned.
+
+---
+
+### 🕒 Scan History
+
+<p align="center">
+  <img src="assets/History.jpg" alt="History Page" width="350"/>
+</p>
+
+The **History** page keeps a record of past scans, including the detected class, accuracy, and time. This lets users review previous results and track their usage of Fungi Scan.
 
 ---
 
