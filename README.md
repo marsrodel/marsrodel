@@ -128,24 +128,23 @@ These screens show the mushroom species included in the model, helping users kno
 
 ---
 
-### 📷 Capture or Upload Images
+### 📷 Capture or Upload Images & ✅ Scan Result
 
-<p align="center">
-  <img src="assets/Camera.jpg" alt="Camera Page" width="200"/>
-  <img src="assets/Upload.jpg" alt="Upload Page" width="200"/>
-</p>
-
-Users can either **take a new photo** using the camera or **upload an existing image** from their device. These images are then sent to the model for fungi classification.
-
----
-
-### ✅ Scan Result
-
-<p align="center">
-  <img src="assets/Result.jpg" alt="Result Page" width="200"/>
-</p>
-
-After a scan, the **Result** screen shows the predicted fungi class along with **confidence percentages**, so users can see how likely each class is.
+<table>
+  <tr>
+    <td align="center">
+      <strong>Capture or Upload Images</strong><br/>
+      <img src="assets/Camera.jpg" alt="Camera Page" width="200"/>
+      <img src="assets/Upload.jpg" alt="Upload Page" width="200"/><br/>
+      <sub>Users can either take a new photo using the camera or upload an existing image from their device. These images are then sent to the model for fungi classification.</sub>
+    </td>
+    <td align="center">
+      <strong>Scan Result</strong><br/>
+      <img src="assets/Result.jpg" alt="Result Page" width="200"/><br/>
+      <sub>After a scan, the Result screen shows the predicted fungi class along with confidence percentages, so users can see how likely each class is.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
