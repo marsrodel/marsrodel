@@ -77,7 +77,107 @@ me.say_hi()
 
 ---
 
-## 🎯 2024 Goals
+## 🚀 Current Project: Smart Mushroom Identifier App
+
+A mobile app that helps users quickly identify different mushroom species using image recognition.  
+Snap a photo or upload an image, and the app analyzes it, shows the predicted species, and keeps a history of your scans with helpful references.
+
+---
+
+### 🧭 App Flow Overview
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Main Page</strong><br/>
+      <img src="assets/Main Page.jpg" alt="Main Page" width="350"/><br/>
+      The central hub of the app. From here, users can start a new scan, view history, or explore other features.
+    </td>
+    <td align="center">
+      <strong>Upload / Camera</strong><br/>
+      <img src="assets/Upload.jpg" alt="Upload Page" width="350"/><br/>
+      <img src="assets/Camera.jpg" alt="Camera Page" width="350"/><br/>
+      Users can either upload an existing photo or capture a new one for mushroom detection.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔍 Detection & Results
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Detection Result</strong><br/>
+      <img src="assets/Result.jpg" alt="Result Page" width="350"/><br/>
+      Shows the predicted mushroom species, confidence score, and key details so users can understand the result.
+    </td>
+    <td align="center">
+      <strong>Analytics</strong><br/>
+      <img src="assets/Analytics.jpg" alt="Analytics Page" width="350"/><br/>
+      <img src="assets/Detections per Class.jpg" alt="Detections per Class" width="350"/><br/>
+      Visualizes how often each mushroom type has been detected and overall usage statistics.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📚 Learning & History
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>History</strong><br/>
+      <img src="assets/History.jpg" alt="History Page" width="350"/><br/>
+      Keeps a record of past detections so users can revisit previous scans and compare results.
+    </td>
+    <td align="center">
+      <strong>Mushroom Dictionary</strong><br/>
+      <img src="assets/Dictionary.jpg" alt="Dictionary Page" width="350"/><br/>
+      A reference section with information about various mushrooms to help users learn more beyond the predictions.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🍄 Sample Mushroom Screens
+
+<p align="center">
+  <img src="assets/Fly Agaric.jpg" alt="Fly Agaric" width="250"/>
+  <img src="assets/Morel.jpg" alt="Morel" width="250"/>
+  <img src="assets/Oyster.jpg" alt="Oyster" width="250"/>
+</p>
+
+<p align="center">
+  <img src="assets/Chanterelle.jpg" alt="Chanterelle" width="250"/>
+  <img src="assets/Reishi.jpg" alt="Reishi" width="250"/>
+  <img src="assets/Enoki.jpg" alt="Enoki" width="250"/>
+</p>
+
+<p align="center">
+  <img src="assets/Black Trumpet.jpg" alt="Black Trumpet" width="250"/>
+  <img src="assets/Coral.jpg" alt="Coral" width="250"/>
+  <img src="assets/Bleeding Tooth.jpg" alt="Bleeding Tooth" width="250"/>
+</p>
+
+Each screen highlights a different mushroom species with a clear image and layout that makes it easy to recognize and compare.
+
+---
+
+### 🧩 UI Details
+
+<p align="center">
+  <img src="assets/Button.jpg" alt="Button Styles" width="300"/>
+</p>
+
+Custom buttons and UI components are designed to keep the interface clean and easy to use, especially for users outdoors in the field.
+
+---
+
+## 🎯 2025 Goals
 
 - [ ] Build and deploy my first full web application
 - [ ] Contribute to open source projects
