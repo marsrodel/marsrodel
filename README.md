@@ -68,16 +68,24 @@ me.say_hi()
 <br/>
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=marsrodel&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=marsrodel&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
+<!-- STATS BOX -->
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### ▢ GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahodshania-jpg\&show_icons=true\&theme=dark\&hide_border=true)
+</td>
+<td width="50%" align="center">
+
+### ▢ GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugahodshania-jpg\&theme=dark\&hide_border=true)
+</td>
+</tr>
 </table>
+
 
 </div>
 
