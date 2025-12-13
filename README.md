@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=College+Student+%F0%9F%8E%93;Learning+to+Code+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Aspiring+Flutter+Developer;IT+Student+from+the+Philippines;Passionate+about+Learning+and+Building+Apps" alt="Typing SVG Subtitle" />
+
 [![Profile Views](https://komarev.com/ghpvc/?username=marsrodel&style=flat-square&color=6C63FF)](https://github.com/marsrodel)
 
 </div>
