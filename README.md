@@ -75,13 +75,12 @@ me.say_hi()
 <td width="50%" align="center">
 
 ### ▢ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marsrodel\&show_icons=true\&theme=dark\&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marsrodel&show_icons=true&theme=dark&hide_border=true)
 </td>
 <td width="50%" align="center">
 
 ### ▢ GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsrodel&theme=dark\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=marsrodel&theme=dark&hide_border=true)
 </td>
 </tr>
 </table>
