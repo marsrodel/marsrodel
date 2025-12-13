@@ -65,6 +65,19 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marsrodel&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
+<br/>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=marsrodel&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=marsrodel&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
