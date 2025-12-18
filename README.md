@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github-header.png" alt="GitHub Header Banner" width="100%" />
+<img src="github-header.png" alt="GitHub Header Banner" width="100%" />
 
 <br/>
 
@@ -121,12 +121,12 @@ Fungi Scan focuses on a specific set of mushroom classes that are available in t
   <tr>
     <td align="center">
       <strong>Main Page</strong><br/>
-      <img src="assets/Main Page.jpg" alt="Main Page" width="200"/><br/>
+      <img src="app_screenshots/Main Page.jpg" alt="Main Page" width="200"/><br/>
       <sub>The Main Page is the starting point of the app. From here, users can navigate to the dictionary, open the camera or upload screen, and access other features of Fungi Scan.</sub>
     </td>
     <td align="center">
       <strong>Fungi Dictionary</strong><br/>
-      <img src="assets/Dictionary.jpg" alt="Dictionary Page" width="200"/><br/>
+      <img src="app_screenshots/Dictionary.jpg" alt="Dictionary Page" width="200"/><br/>
       <sub>The Dictionary lists the different fungi that can be recognized by the app. Each entry represents a species that users can scan and learn about.</sub>
     </td>
   </tr>
@@ -139,19 +139,19 @@ Fungi Scan focuses on a specific set of mushroom classes that are available in t
 Below are sample screens showing the fungi that Fungi Scan can classify:
 
 <p align="center">
-  <img src="assets/Fly Agaric.jpg" alt="Fly Agaric" width="165"/>
-  <img src="assets/Morel.jpg" alt="Morel" width="165"/>
-  <img src="assets/Oyster.jpg" alt="Oyster" width="165"/>
-  <img src="assets/Chanterelle.jpg" alt="Chanterelle" width="165"/>
-  <img src="assets/Button.jpg" alt="Button" width="165"/>
+  <img src="app_screenshots/Fly Agaric.jpg" alt="Fly Agaric" width="165"/>
+  <img src="app_screenshots/Morel.jpg" alt="Morel" width="165"/>
+  <img src="app_screenshots/Oyster.jpg" alt="Oyster" width="165"/>
+  <img src="app_screenshots/Chanterelle.jpg" alt="Chanterelle" width="165"/>
+  <img src="app_screenshots/Button.jpg" alt="Button" width="165"/>
 </p>
 
 <p align="center">
-  <img src="assets/Reishi.jpg" alt="Reishi" width="165"/>
-  <img src="assets/Enoki.jpg" alt="Enoki" width="165"/>
-  <img src="assets/Black Trumpet.jpg" alt="Black Trumpet" width="165"/>
-  <img src="assets/Coral.jpg" alt="Coral" width="165"/>
-  <img src="assets/Bleeding Tooth.jpg" alt="Bleeding Tooth" width="165"/>
+  <img src="app_screenshots/Reishi.jpg" alt="Reishi" width="165"/>
+  <img src="app_screenshots/Enoki.jpg" alt="Enoki" width="165"/>
+  <img src="app_screenshots/Black Trumpet.jpg" alt="Black Trumpet" width="165"/>
+  <img src="app_screenshots/Coral.jpg" alt="Coral" width="165"/>
+  <img src="app_screenshots/Bleeding Tooth.jpg" alt="Bleeding Tooth" width="165"/>
 </p>
 
 These screens show the mushroom species included in the model, helping users know which fungi they can scan with the app.
@@ -164,13 +164,13 @@ These screens show the mushroom species included in the model, helping users kno
   <tr>
     <td align="center">
       <strong>Capture or Upload Images</strong><br/>
-      <img src="assets/Camera.jpg" alt="Camera Page" width="200"/>
-      <img src="assets/Upload.jpg" alt="Upload Page" width="200"/><br/>
+      <img src="app_screenshots/Camera.jpg" alt="Camera Page" width="200"/>
+      <img src="app_screenshots/Upload.jpg" alt="Upload Page" width="200"/><br/>
       <sub>Users can either take a new photo using the camera or upload an existing image from their device. These images are then sent to the model for fungi classification.</sub>
     </td>
     <td align="center">
       <strong>Scan Result</strong><br/>
-      <img src="assets/Result.jpg" alt="Result Page" width="200"/><br/>
+      <img src="app_screenshots/Result.jpg" alt="Result Page" width="200"/><br/>
       <sub>After a scan, the Result screen shows the predicted fungi class along with confidence percentages, so users can see how likely each class is.</sub>
     </td>
   </tr>
@@ -184,13 +184,13 @@ These screens show the mushroom species included in the model, helping users kno
   <tr>
     <td align="center">
       <strong>Analytics & Detections per Class</strong><br/>
-      <img src="assets/Analytics.jpg" alt="Analytics Page" width="200"/>
-      <img src="assets/Detections per Class.jpg" alt="Detections per Class" width="200"/><br/>
+      <img src="app_screenshots/Analytics.jpg" alt="Analytics Page" width="200"/>
+      <img src="app_screenshots/Detections per Class.jpg" alt="Detections per Class" width="200"/><br/>
       <sub>The Analytics screen summarizes how the app is being used, including how many detections each fungi class has. The Detections per Class chart visualizes how often each type of mushroom has been scanned.</sub>
     </td>
     <td align="center">
       <strong>Scan History</strong><br/>
-      <img src="assets/History.jpg" alt="History Page" width="200"/><br/>
+      <img src="app_screenshots/History.jpg" alt="History Page" width="200"/><br/>
       <sub>The History page keeps a record of past scans, including the detected class, accuracy, and time. This lets users review previous results and track their usage of Fungi Scan.</sub>
     </td>
   </tr>
