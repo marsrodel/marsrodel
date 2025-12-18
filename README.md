@@ -262,6 +262,41 @@ These screens show the mushroom species included in the model, helping users kno
 
 ---
 
+### 🚀 Key Features Summary
+
+<table>
+  <tr>
+    <th align="left">Feature</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><strong>Image Capture & Upload</strong></td>
+    <td>Users can either take a new picture of a mushroom using the camera or choose an existing photo from their gallery as input for classification.</td>
+  </tr>
+  <tr>
+    <td><strong>Fungi Class Recognition</strong></td>
+    <td>The app runs an image classification model to predict which fungi class the sample belongs to, based on the supported species in the built-in dictionary.</td>
+  </tr>
+  <tr>
+    <td><strong>Confidence-Based Results</strong></td>
+    <td>Each scan displays confidence values for the detected class, helping users understand how certain the model is about its prediction.</td>
+  </tr>
+  <tr>
+    <td><strong>Interactive Fungi Dictionary</strong></td>
+    <td>A reference section where users can browse the available fungi classes, view their images, and read short descriptions before or after scanning.</td>
+  </tr>
+  <tr>
+    <td><strong>Usage Analytics</strong></td>
+    <td>Analytics and detections-per-class charts provide an overview of which fungi are scanned the most and how the model has been used over time.</td>
+  </tr>
+  <tr>
+    <td><strong>Scan History</strong></td>
+    <td>The app keeps a record of previous scans, showing the detected class, accuracy, and time so that users can revisit earlier results.</td>
+  </tr>
+</table>
+
+---
+
 ## 🎯 2025 Goals
 
 - [ ] Build and deploy my first full web application
