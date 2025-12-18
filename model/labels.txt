@@ -1,0 +1,10 @@
+0 Button Mushroom
+1 Oyster Mushroom
+2 Enoki Mushroom
+3 Morel Mushroom
+4 Chanterelle Mushroom
+5 Black Trumpet Mushroom
+6 Fly Agaric Mushroom
+7 Reishi Mushroom
+8 Coral Fungus
+9 Bleeding Tooth Fungus

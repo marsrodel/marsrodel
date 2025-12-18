@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "55530730916",
+    "firebase_url": "https://maraon-fungivariety-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "maraon-fungivariety",
+    "storage_bucket": "maraon-fungivariety.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55530730916:android:fc232af4d466b6f5957d31",
+        "android_client_info": {
+          "package_name": "com.example.fungi_variety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKKpyGVy0qZ3BVChKBGv_ifmFnYpl0-q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

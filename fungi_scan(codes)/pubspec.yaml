@@ -1,0 +1,52 @@
+name: fungi_variety
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  camera: ^0.10.5+2
+  image_picker: ^1.1.2
+  image_picker_for_web: ^3.0.2
+  tflite_flutter: ^0.12.1
+  image: ^4.1.7
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  fl_chart: ^0.69.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/background.jpeg
+    - assets/labels.txt
+    - assets/model_unquant.tflite
+    - assets/photos/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/iconapp.png
+  web:
+    generate: true
+    image_path: assets/iconapp.png
+    favicon: true
+  windows:
+    generate: true
+    image_path: assets/iconapp.png
+  macos:
+    generate: true
+    image_path: assets/iconapp.png
+  linux:
+    generate: true
+    image_path: assets/iconapp.png
