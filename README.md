@@ -115,6 +115,70 @@ Fungi Scan focuses on a specific set of mushroom classes that are available in t
 
 ---
 
+### 🧬 Fungi Classes Overview
+
+Below is a quick overview of the mushroom classes that Fungi Scan can recognize, with a short description and a sample image for each class.
+
+<table>
+  <tr>
+    <th align="left">Class Name</th>
+    <th align="left">Description</th>
+    <th align="center">Sample Image</th>
+  </tr>
+  <tr>
+    <td><strong>Fly Agaric</strong></td>
+    <td>A visually striking red mushroom with white spots, commonly seen in illustrations and fairy-tale imagery. Often used as an example of a clearly recognizable, toxic mushroom.</td>
+    <td align="center"><img src="class_samples/fly_agaric.jpg" alt="Fly Agaric" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Morel</strong></td>
+    <td>A distinctive mushroom with a honeycomb-like cap. Known for its unique texture and is often considered a gourmet ingredient.</td>
+    <td align="center"><img src="class_samples/morel.jpg" alt="Morel" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Oyster</strong></td>
+    <td>A fan-shaped mushroom that grows in clusters. Commonly used in cooking and known for its mild, delicate flavor.</td>
+    <td align="center"><img src="class_samples/oyster.jpg" alt="Oyster" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Chanterelle</strong></td>
+    <td>A bright yellow or orange mushroom with a trumpet-like shape. Popular in many dishes for its fruity aroma and rich flavor.</td>
+    <td align="center"><img src="class_samples/chanterelles.jpg" alt="Chanterelles" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Button</strong></td>
+    <td>A small, round mushroom commonly found in groceries. Often used as the basic example of an edible mushroom in many recipes.</td>
+    <td align="center"><img src="class_samples/button.jpg" alt="Button" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Enoki</strong></td>
+    <td>A long, thin mushroom with tiny caps, usually white. Frequently used in soups and hotpots, especially in Asian cuisine.</td>
+    <td align="center"><img src="class_samples/enoki.jpg" alt="Enoki" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Black Trumpet</strong></td>
+    <td>A dark, funnel-shaped mushroom. Known for its rich, smoky flavor and often used to add depth to sauces and dishes.</td>
+    <td align="center"><img src="class_samples/black_trumpet.jpg" alt="Black Trumpet" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Coral</strong></td>
+    <td>A branching mushroom that resembles underwater coral. Included in the dataset to demonstrate more unusual shapes and structures.</td>
+    <td align="center"><img src="class_samples/coral.jpg" alt="Coral" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Bleeding Tooth</strong></td>
+    <td>A unique mushroom with a pale surface that exudes red, droplet-like fluid. Useful for showing the model how to handle rare and visually distinct species.</td>
+    <td align="center"><img src="class_samples/bleeding_tooth.jpeg" alt="Bleeding Tooth" width="90"/></td>
+  </tr>
+  <tr>
+    <td><strong>Reishi</strong></td>
+    <td>A glossy, shelf-like mushroom often used in traditional medicine. Recognizable by its reddish-brown color and layered appearance.</td>
+    <td align="center"><img src="class_samples/reishi.jpg" alt="Reishi" width="90"/></td>
+  </tr>
+</table>
+
+---
+
 ### 🏠 Main Page & 📖 Fungi Dictionary
 
 <table>
